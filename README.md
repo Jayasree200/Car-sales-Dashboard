@@ -6,4 +6,4 @@ Developed an interactive Tableau dashboard for analyzing car sales performance a
 -  YTD AVG price
 -  YTD Cars Sold
   ## Dashboard
- - <a href="https://github.com/Jayasree200/Car-sales-Dashboard/blob/main/CARSALES%20DASHBOARD.twb">Car Sales Dashboard></a>
+ - <a href="https://github.com/Jayasree200/Car-sales-Dashboard/blob/main/CARSALES%20DASHBOARD.twb">Car Sales Dashboard</a>
